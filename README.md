@@ -1,6 +1,7 @@
 # xmr-stak-dep
 This repository only contains a binary build of xmr-stak dependencies. 
 
+```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
@@ -25,6 +26,7 @@ hN6dqE049JR0a+Yv+Q9ykIP3uxIII17fCVx9ks2dfDLvDDAM5juGLmZz8suVV+yA
 uan0YXsIVXIT2g9j6HY5guEqQRs5CgPqLel8xRuhRM1a2qD8DSIyeuX+ee72UR0=
 =ZIMk
 -----END PGP SIGNATURE-----
+```
 
 # Source codes
 * (hwloc)[https://www.open-mpi.org/projects/hwloc/]
