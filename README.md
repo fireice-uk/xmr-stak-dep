@@ -29,7 +29,7 @@ uan0YXsIVXIT2g9j6HY5guEqQRs5CgPqLel8xRuhRM1a2qD8DSIyeuX+ee72UR0=
 ```
 
 # Source codes
-* (hwloc)[https://www.open-mpi.org/projects/hwloc/]
-* (libmicrohttpd)[https://www.gnu.org/software/libmicrohttpd/]
-* (openssl)[https://github.com/openssl/openssl]
+* [hwloc](https://www.open-mpi.org/projects/hwloc/)
+* [libmicrohttpd](https://www.gnu.org/software/libmicrohttpd/)
+* [openssl](https://github.com/openssl/openssl)
 
